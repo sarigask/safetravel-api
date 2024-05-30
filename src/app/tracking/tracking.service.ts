@@ -74,7 +74,7 @@ export class TrackingService {
 		const user = await this.userService.getById(id)
 		const availableUsers = await this.userService.searchUsersByCoordinates(
 			loc,
-			5000000,
+			5000,
 		)
 		const filterUsers = availableUsers.filter(
 			u => (u._id as string).toString() !== id,
