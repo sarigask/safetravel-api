@@ -1,0 +1,20 @@
+{
+	"recommendations": [
+		"biomejs.biome",
+		"chakrounanas.turbo-console-log",
+		"antfu.file-nesting",
+		"imgildev.vscode-nestjs-snippets-extension",
+		"yoavbls.pretty-ts-errors",
+		"christian-kohler.path-intellisense",
+		"christian-kohler.npm-intellisense",
+		"leizongmin.node-module-intellisense",
+		"imgildev.vscode-nestjs-mongoose-snippets",
+		"eamodio.gitlens",
+		"editorconfig.editorconfig",
+		"streetsidesoftware.code-spell-checker",
+		"znck.grammarly",
+		"exodiusstudios.comment-anchors",
+		"aaron-bond.better-comments",
+		"github.vscode-pull-request-github"
+	]
+}

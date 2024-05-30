@@ -1,0 +1,30 @@
+{
+	"version": "0.2",
+	"language": "en",
+	"ignorePaths": ["node_modules", "dist", "app/migration/**/*.ts"],
+	"files": ["**/*.ts"],
+	"words": [
+		"Ashish",
+		"CBCLK",
+		"CBERN",
+		"colorette",
+		"dsphere",
+		"formkit",
+		"geoip",
+		"giftcard",
+		"giftcards",
+		"IFSC",
+		"Indiancashback",
+		"jwks",
+		"Mailgun",
+		"meilisearch",
+		"ncsrf",
+		"ofetch",
+		"ohash",
+		"PYMT",
+		"qwickcilver",
+		"razorpay",
+		"storecategories",
+		"Subdocument"
+	]
+}

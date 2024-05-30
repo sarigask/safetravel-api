@@ -1,0 +1,25 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"quickfix.biome": "explicit",
+		"source.organizeImports.biome": "explicit"
+	},
+	"editor.defaultFormatter": "biomejs.biome",
+
+	"cSpell.enabled": true,
+	"cSpell.logLevel": "Debug",
+	"editor.tabSize": 2,
+	"cSpell.words": [
+		"apdex",
+		"camelcase",
+		"CLOUDINARY",
+		"destr",
+		"mailgun",
+		"nestjs",
+		"resave",
+		"Subdocument"
+	],
+	"[typescript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	}
+}

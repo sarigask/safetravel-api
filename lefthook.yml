@@ -1,0 +1,8 @@
+pre-commit:
+  commands:
+    check:
+      glob: "*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}"
+      run: npx biome check --no-errors-on-unmatched --files-ignore-unknown=true {staged_files}
+    spellcheck:
+      glob: "**/*.ts"
+      run: npx cspell {staged_files} || echo "Spell check completed with warnings"
